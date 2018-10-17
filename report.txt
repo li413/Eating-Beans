@@ -1,0 +1,20 @@
+Name: Chenyang Li
+
+
+
+In the final project, my own task is that I use drawpixel() function to draw the map and 4 boxes in it.
+
+I also use drawstring() function to draw all 45 beans in the map and figure out all the beans' positions.
+
+Then my partner and I together figure out how to win the game.
+
+challenges:
+When I draw the 4 boxes, I have to figure out the total map and draw each line independently. I have to 
+make the path so the eater can pass between the boxes.
+The most difficult thing to me and my partner is to figure out how to win the game.
+
+Do differently:
+If we have more time, we can make several animals in the map and when the eater meets the animals, the eater
+will die and game over. 
+
+
